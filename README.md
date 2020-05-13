@@ -7,6 +7,14 @@ A simple Android calculator app, written in Kotlin.
 
 Intended for [Cilsy Sekolah Mobile](https://sekolahmobile.com) study purpose (Section 14 - Building Counter Calculator Apps).
 
+### 📱️ Preview
+
+<p align="center">
+  
+  <img height="500" alt="preview" src="https://raw.githubusercontent.com/ezralazuardy/calculator/master/images/preview.jpg" />
+
+</p>
+
 ### 📖️ Library used:
 
 - [exp4j](https://www.objecthunter.net/exp4j/) (Calculate simple number operation expressions)
